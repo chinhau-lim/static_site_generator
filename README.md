@@ -8,4 +8,4 @@ In this project, we write a Python program that takes as input HTML templates, J
 
 <img src="insta_01.png" width="430" height="460">
 
-<img src="insta_02.png" width="430" height="460">
+<img src="insta_02.png" width="430" height="380">
