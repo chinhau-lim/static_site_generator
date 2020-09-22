@@ -6,6 +6,6 @@ The learning goals of this project include HTML, CSS, templates, Python programm
 
 In this project, we write a Python program that takes as input HTML templates, JSON data and misc. static files (like images and CSS) and generates as output a web site of static content. 
 
-<img src="insta_01.png" width="430" height="230">
+<img src="insta_01.png" width="430" height="460">
 
-<img src="insta_02.png" width="430" height="230">
+<img src="insta_02.png" width="430" height="460">
